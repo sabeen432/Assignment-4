@@ -184,7 +184,7 @@ console.log(`${number1} * 8 = ${number1 * 8}`);
 console.log(`${number1} * 9 = ${number1 * 9}`);
 console.log(`${number1} * 10 = ${number1 * 10}`);
 
-  
+
 
 
 
